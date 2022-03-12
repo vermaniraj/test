@@ -1,4 +1,4 @@
-public class Test2Java {
+public class Test5Java {
 
     public static void main (String args []){
 
